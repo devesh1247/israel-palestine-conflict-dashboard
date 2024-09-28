@@ -1,2 +1,4 @@
-# Incident Data Analysis Dashboard
+# Data Analysis Dashboard
 This Streamlit-based dashboard provides a user-friendly interface for exploring and analyzing incident data. It allows you to visualize and analyze various aspects of incident data, including demographics, injuries, locations, and more.
+## Features
+Data Upload: Upload your incident data in CSV format using the sidebar. Data Summary: Get an overview of the number of events, types of ammunition used, and citizenship details. Data Analysis: Explore incident data through visualizations, including bar charts and pie charts. Filtering and Grouping: Filter and group data by various criteria, such as citizenship, gender, region, and injury type. Time-Based Analysis: Visualize events over time by year and month. Average Age Analysis: Calculate and visualize the average age of individuals based on gender and citizenship. Data Export: Export the results of your analysis for further use.
